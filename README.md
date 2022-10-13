@@ -1,2 +1,5 @@
 # demo-repo
-first time learning github
+
+First time using github!
+
+13 October 2022
